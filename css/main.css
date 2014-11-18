@@ -2,11 +2,12 @@
 
 body {
     font-family: 'Open Sans', 'Helvetica Neue', 'Helvetica', sans-serif;
-    font-size: 18px; 
+    font-size: 18px;
 }
 
 #map {
     height: 600px;
+    width: 100%;
 }
 
 #locating-message img {
